@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fed5cd0fb89a3942bd7351a53a296df, type: 3}
+  m_Name: bullet item
+  m_EditorClassIdentifier: 
+  itemName: bulletItem
+  description: makes bullets stronger
+  icon: {fileID: 21300000, guid: 2969d90b86698124696637a6df64a112, type: 3}
+  item: {fileID: 7455503506582798548, guid: 3c8aa2c3494544a48bfab609483d75c4, type: 3}
+  algieIcon: {fileID: 21300000, guid: 2969d90b86698124696637a6df64a112, type: 3}
+  effect: 0
+  power: 0.1
+  maxHealth: 1000
+  algieSpreadChance: 0.04
